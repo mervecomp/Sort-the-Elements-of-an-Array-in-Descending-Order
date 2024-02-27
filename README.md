@@ -25,7 +25,7 @@ Projeyi yerel ortamınıza klonlamak için:
 Scripti çalıştırmak için, projenin bulunduğu dizinde terminal veya komut istemcisini açın ve aşağıdaki komutu girin:
 
 
-python sort_array_desc.py
+python main.py
 
 Bu komut, scripti çalıştıracak ve örnek diziyi azalan sıraya göre sıralayıp sonucu ekrana yazdıracaktır.
 
